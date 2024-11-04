@@ -16,4 +16,7 @@ To run jupyter notebook type:
 % jupyter notebook
 ```
 
-Then open the file `build_tx.ipynb`
+For the article "Building Blockchain Transaction using Python" use the file `build_tx.ipynb`.
+
+
+For the article "How Do Miners Validate Transactions?" use the file `validate_tx.ipynb`.
